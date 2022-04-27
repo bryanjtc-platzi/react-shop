@@ -10,8 +10,6 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - uses: pnpm/action-setup@10b4b0b462cfa1a30381c9d7c242194165a466ab
-        with:
-          version: 7
       - uses: actions/setup-node@v3
         with:
           node-version: '16'
