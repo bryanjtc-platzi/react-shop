@@ -5,6 +5,7 @@ specifiers:
   '@babel/plugin-transform-runtime': ^7.17.0
   '@babel/preset-env': ^7.16.11
   '@babel/preset-react': ^7.16.7
+  '@babel/runtime': ^7.17.9
   axios: ^0.27.0
   babel-loader: ^8.2.4
   css-loader: 6.7.1
@@ -27,6 +28,7 @@ dependencies:
   '@babel/plugin-transform-runtime': 7.17.0_@babel+core@7.17.9
   '@babel/preset-env': 7.16.11_@babel+core@7.17.9
   '@babel/preset-react': 7.16.7_@babel+core@7.17.9
+  '@babel/runtime': 7.17.9
   axios: 0.27.2
   babel-loader: 8.2.5_acba72ea4bf9d339cdfcd8f55cdb7006
   html-loader: 3.1.0_webpack@5.72.0
