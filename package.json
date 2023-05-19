@@ -36,6 +36,6 @@
     "mini-css-extract-plugin": "2.7.6",
     "sass": "1.62.1",
     "sass-loader": "13.2.2",
-    "style-loader": "3.3.2"
+    "style-loader": "3.3.3"
   }
 }
