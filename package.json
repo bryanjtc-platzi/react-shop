@@ -32,7 +32,7 @@
     "webpack-dev-server": "^4.7.4"
   },
   "devDependencies": {
-    "css-loader": "6.8.1",
+    "css-loader": "6.10.0",
     "mini-css-extract-plugin": "2.7.7",
     "sass": "1.69.6",
     "sass-loader": "13.3.3",
