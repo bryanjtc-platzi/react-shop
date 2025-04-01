@@ -20,7 +20,7 @@
     "@babel/preset-env": "^7.17.10",
     "@babel/preset-react": "^7.16.7",
     "axios": "^1.0.0",
-    "babel-loader": "^9.0.0",
+    "babel-loader": "^10.0.0",
     "html-loader": "^5.0.0",
     "html-webpack-plugin": "^5.5.0",
     "react": "^19.0.0",
