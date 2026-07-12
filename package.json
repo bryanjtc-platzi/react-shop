@@ -28,10 +28,10 @@
     "react-dom": "19.2.7",
     "react-router-dom": "7.17.0",
     "regenerator-runtime": "0.14.1",
-    "uuid": "14.0.0",
+    "uuid": "14.0.1",
     "webpack": "5.107.2",
     "webpack-cli": "7.0.3",
-    "webpack-dev-server": "5.2.5"
+    "webpack-dev-server": "5.2.6"
   },
   "devDependencies": {
     "css-loader": "7.1.4",
