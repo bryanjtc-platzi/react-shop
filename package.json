@@ -28,16 +28,16 @@
     "react-dom": "19.2.8",
     "react-router-dom": "7.17.0",
     "regenerator-runtime": "0.14.1",
-    "uuid": "14.0.1",
+    "uuid": "14.0.2",
     "webpack": "5.107.2",
     "webpack-cli": "7.0.3",
     "webpack-dev-server": "5.2.6"
   },
   "devDependencies": {
-    "css-loader": "7.1.4",
+    "css-loader": "7.1.5",
     "mini-css-extract-plugin": "2.10.2",
     "sass": "1.100.0",
-    "sass-loader": "17.0.0",
+    "sass-loader": "17.0.1",
     "style-loader": "4.0.0"
   }
 }
